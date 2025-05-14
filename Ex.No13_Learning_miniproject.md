@@ -108,7 +108,11 @@ else:
 
 ### Output:
 
-Screenshot 2025-05-14 105026.png
+![Screenshot 2025-05-14 105026](https://github.com/user-attachments/assets/a138580f-4268-45d2-a405-ee77a8ef3e2f)
+
+![Screenshot 2025-05-14 105237](https://github.com/user-attachments/assets/75f4a464-1f2e-4e21-bb11-34a8d168f639)
+
+![Screenshot 2025-05-14 105253](https://github.com/user-attachments/assets/7dc7aa35-300d-47e5-bd7d-22d9ac5123e0)
 
 
 ### Result:
